@@ -106,17 +106,8 @@ const CONFIG = {
     { caption: "My first journey with you. 🥰✨", colors: ["#d9e6c3", "#a8c482"], image: "image/i.jpeg" },
     { caption: "Your voice felt like heaven. 📞❤️", colors: ["#d5c9f2", "#9e87e0"], image: "image/j.jpeg" },
     { caption: "One seat, one beautiful memory. 🚌🥹", colors: ["#c9eef2", "#87dce0"], image: "image/k.jpeg" },
-    { caption: "I only noticed you. 👀❤️", colors: ["#f2dfc9", "#e0b587"], image: "image/l.jpeg" },
-    { caption: "Proud to have you. 🥹🤍", colors: ["#f2c9eb", "#e087d1"], image: "image/m.jpeg" },
     { caption: "A little jealousy, nothing more. 😅❤️", colors: ["#c9f2d5", "#87e09e"], image: "image/n.jpeg" },
     { caption: "Our first fight shattered me. 💔", colors: ["#c3c6e6", "#828ac4"], image: "image/o.jpeg" },
-    { caption: "Waiting through the whole night. 🌙🥺", colors: ["#f6e9c9", "#e8c3a1"], image: "image/p.jpeg" },
-    { caption: "Your words left me broken. 💔", colors: ["#c9e6f2", "#87c5e0"], image: "image/q.jpeg" },
-    { caption: "I stayed silent, afraid. 🥺🤐", colors: ["#e6c3d5", "#c482a8"], image: "image/r.jpeg" },
-    { caption: "You were always on my mind. ❤️‍🩹", colors: ["#f2ebd5", "#e0cf9e"], image: "image/s.jpeg" },
-    { caption: "Your distance quietly broke me. 💔", colors: ["#d5f2f2", "#9ee0e0"], image: "image/t.jpeg" },
-    { caption: "Even then, I stayed. 🥺🤍", colors: ["#f2c9c9", "#e08787"], image: "image/u.jpeg" },
-    { caption: "A little gift, countless memories. 🎁❤️", colors: ["#c9c9f2", "#8787e0"], image: "image/w.jpeg" },
     { caption: "Some endings teach us everything. ❤️‍🩹✨", colors: ["#f6c9d9", "#e8a1bd"], image: "image/x.jpeg" }
   ],
 
