@@ -131,9 +131,7 @@ const CONFIG = {
     { icon: "✈️", label: "Our Favorite Place", caption: "Where we belong", type: "video", src: "place_vid.mp4", colors: ["#a9c9e0", "#5c8fb8"] },
     { icon: "🎬", label: "Our Favorite Movie", caption: "Watched a hundred times", type: "video", src: "movie_vid.mp4", colors: ["#cbb3e0", "#8a5fc9"] },
     { icon: "🎵", label: "Our Song", caption: "Plays in my head, always", type: "video", src: "song_vid.mp4", colors: ["#e0a3c4", "#c9527f"] },
-    { icon: "🐾", label: "Our Favorite Animal", caption: "The cutest one", type: "video", src: "animal_vid.mp4", colors: ["#d4c4b7", "#8c7b6e"] },
-    { icon: "🏍️", label: "Our Favorite Bike", caption: "Late night rides", type: "video", src: "bike_video.mp4", colors: ["#a3b8cc", "#4a6278"] }
-  ],
+    ],
 
   // Scene 6 — letter
   letterSalutation: "Dear Tuzi ❤️,",
